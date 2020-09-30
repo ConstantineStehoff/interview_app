@@ -1,3 +1,5 @@
+Before using the app please make sure that you have NodeJS installed and run in the console 'npm install'. 
+
 I rendered the data in the vertical list instead of horizontally because adding responsiveness would require a lot of work but I can definitely do that if required. Default pagination is 10 but you can change it to 20, 20, or 100. I used Antd for React to render list and other components. I also added Axios and Enzyme. All of the default scripts from create-react-app still work as below.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
